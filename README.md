@@ -191,9 +191,13 @@ git clone https://github.com/yourusername/Health-Monitoring-System.git
 * Add **buzzer alert for abnormal readings**
 * Cloud data logging
 
+---
 
+# 👨‍💻 Author
 
+**Om Madav**
+---
 
+# 📄 License
 
-If you need help adapting the sketch to particular sensors or displays,
-open an issue or contact the repository owner.
+This project is licensed under the **MIT License**.
