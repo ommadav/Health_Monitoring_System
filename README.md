@@ -55,7 +55,7 @@ This project is useful for:
 
 # 🔌 Circuit Diagram
 
-![Circuit Diagram](circuit/circuit_diagram.png)
+![Circuit Diagram](circuit/circuit_image.png)
 
 ### Pin Connections
 
@@ -94,7 +94,7 @@ This project is useful for:
 
 # 🧠 Block Diagram
 
-![Block Diagram](images/block_diagram.png)
+![Block Diagram](images/Health Monitoring System.pdf)
 
 ### System Flow
 
